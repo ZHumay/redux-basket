@@ -1,8 +1,3 @@
-(E-commerce yazisina click etdikde cardlar acilir, products yazisinda ise table. Qeydiyyat olunmamis biri basketde order buttonuna click etdikde avtomatik registere kecid edir ve sonra login
-olduqda artiq ordere click etdikde "Your order is complete" alerti ekrana gelir. login olmus şəxs logout buttonuna click etdikde çıxış edilsede localstorage-de
-melumatları saxlanılır ve yeniden login ola bilir. eyni bir email ile 2-ci defe qeydiyyatdan keçmek olmur. eger şexs login olmayıbsa umumiyyetle products(yeni ki table görünmür ve /products yazib keçid ede bilmir avtomatik /login-e gonderirem. Bir problemim var login olmus biri productsa click edende table ekranda görünmür 
-sebebini tapa bilmedim. app-de cagirib baxdim data gelir deqiq amma orda niye gorunmur bilmirem :( amma delete,edit hisselerini yenede yazdim   )
-
 
 # Getting Started with Create React App
 
